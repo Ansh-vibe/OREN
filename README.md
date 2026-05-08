@@ -1,35 +1,134 @@
-# OREN-fm
+# OREN
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+Premium full-stack digital agency website built with Next.js, Tailwind CSS, Framer Motion, and modern web technologies.
+
+OREN is a startup-focused digital agency specializing in:
+- Website Development
+- E-commerce Solutions
+- CRM & ERP Systems
+- Branding & UI/UX
+- SEO & Digital Marketing
+- Business Automation
+
+---
 
 ## Built with v0
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+This repository is linked to a v0 project.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_VNq2X0EoQLlDew0fhDgOBJmw6MJ3)
+Continue building and updating the website here:
+
+[Continue working on v0](https://v0.app/chat/oren-website-build-voqIobQhTfp?utm_source=chatgpt.com)
+
+Every merge to `main` can be configured for automatic deployment.
+
+---
+
+## Tech Stack
+
+### Frontend
+- Next.js
+- React.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+
+### Integrations
+- Firebase
+- Stripe
+- Razorpay
+- Nodemailer
+- Google Analytics
+
+---
+
+## Featured Projects
+
+### Kloof Street House — Cape Town Restaurant Experience
+
+Luxury restaurant experience featuring:
+- elegant animations
+- cinematic UI
+- reservation system
+- interactive gallery
+- mobile-first design
+
+Live Demo:
+
+[Kloof Street House Demo](https://rooftop-reserve-4.preview.emergentagent.com/?utm_source=chatgpt.com)
+
+---
+
+### Utopia Cape Town — Fine Dining Website
+
+Premium fine dining platform featuring:
+- immersive layouts
+- interactive menu experience
+- smooth transitions
+- luxury branding
+- responsive design
+
+Live Demo:
+
+[Utopia Cape Town Demo](https://intimate-feast.preview.emergentagent.com/?utm_source=chatgpt.com)
+
+---
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies:
+ 
+## Design System
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+The website follows a premium dark modern design system with:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- soft gold accents
+- purple/blue gradients
+- glassmorphism
+- smooth animations
+- cinematic transitions
+- luxury-tech aesthetics
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Inspired By
 
-## Learn More
+- Apple
+- Vercel
+- Framer
+- Linear
+- Awwwards
 
-To learn more, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+## Performance & SEO
 
-<a href="https://v0.app/chat/api/kiro/clone/Ansh-vibe/OREN-fm" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+Optimized for:
+
+- SEO
+- fast loading
+- responsiveness
+- accessibility
+- scalability
+- smooth animations
+
+---
+
+## Contact
+
+### OREN
+Kanpur, Uttar Pradesh, India
+
+📧 Email: info.oren01@gmail.com  
+📱 Phone: +91 8400385071
+
+---
+
+## License
+
+© 2026 OREN. All rights reserved.
+
